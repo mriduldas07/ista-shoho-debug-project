@@ -244,6 +244,19 @@ img {
 #reported{
   display: none;
 }
+/* qsn and ans section  */
+.QsnDiv{
+  width: 75%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 2%;
+  border-radius: 15px;
+  background-color: beige;
+}
+.QsnDiv h1{
+  text-align: center;
+  color: brown;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
