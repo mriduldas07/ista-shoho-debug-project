@@ -257,6 +257,12 @@ img {
   text-align: center;
   color: brown;
 }
+.QsnDiv h3{
+  margin: 5%;
+}
+.QsnDiv span{
+  color: crimson;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
